@@ -131,12 +131,7 @@ air-quality-ml-project/
 │   ├── model_comparison.png
 │   └── residual_plot.png
 │
-├── models/
-│   ├── decision_tree_model.pkl
-│   ├── linear_regression_model.pkl
-│   └── random_forest_model.pkl
-│
-├── predictive_model.py
+├── air_quality_analytics_code.py
 ├── processed_ml_dataset.csv
 ├── README.md
 ├── requirements.txt
